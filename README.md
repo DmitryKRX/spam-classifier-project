@@ -21,6 +21,16 @@
 
 Наилучшие показатели у LSTM-модели. Однако все модели, кроме RuBertTiny, имеют словарь, ограничивающийся набормо слов и датасета, следовательно, будут плохо показывать себя на инференсе, чего нельзя сказать про RuBertTiny модель.
 
+Для инференса была выбрана модель на основе RuBert Tiny.
+
+## Примеры
+
+<img src="https://github.com/user-attachments/assets/8d47c2ed-ef95-451c-8f8d-771591b627ba" alt="Пример работы бота" width="568" height="653">
+
+---
+
+<img src="https://github.com/user-attachments/assets/9ad35217-f674-40d2-b3c6-6a8597ef8c0a" alt="Пример работы бота" width="554" height="272">
+
 ## Описание файлов
 
 - training.ipynb — блокнот с обработкой данных и обучением всех моделей;
@@ -29,6 +39,7 @@
 - rubert_tiny_tokenizer — сохраненный токенизатор RuBertTiny из библиотеки transformers;
 - rubert_classifier_weights.pth — файл с весами классификатора из модели на базе RuBertTiny;
 - requirements.txt — список зависимостей и их версий.
+
 
 ## Запуск:
 
