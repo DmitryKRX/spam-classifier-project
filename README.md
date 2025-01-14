@@ -1,3 +1,7 @@
+<a href="https://colab.research.google.com/drive/10ZfVn7CXRQiJ6pR5JY4yOe13nhm1pYIE">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+
 # Анти-спам классификатор
 
 Данный проект подразумевает создание классификатора на базе моделей машинного обучения для выявления спам-сообщений.
